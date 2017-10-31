@@ -1,0 +1,18 @@
+CIS3105 - Embedded Systems Tutorial Project
+
+This project is a modified version of KEIL's Blinky example project.
+The modifications are designed to enable the students to start configuring
+the ARM Cortex-M3 MCU (STM32F103ZG) on KEIL's evaluation board MCBSTM32EXL
+in order to do some basic MCU functions.
+
+This project is expected to be incrementally developed by the students
+starting from basic LED functions to more sophisticated interrupt handling
+functions such as responding buttons and joystick movements. Additional
+functions will be built as and when required and appropriate.
+
+Besim Mustafa
+Edge Hill University
+
+February 2012
+
+
