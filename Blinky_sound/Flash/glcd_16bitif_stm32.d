@@ -1,0 +1,10 @@
+.\flash\glcd_16bitif_stm32.o: GLCD_16bitIF_STM32.c
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flash\glcd_16bitif_stm32.o: C:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\flash\glcd_16bitif_stm32.o: GLCD.h
+.\flash\glcd_16bitif_stm32.o: Font_6x8_h.h
+.\flash\glcd_16bitif_stm32.o: Font_16x24_h.h
