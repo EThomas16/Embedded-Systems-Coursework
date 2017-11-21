@@ -18,7 +18,7 @@
 /* 			for the coursework one task for CIS3105 Embedded Systems          */
 /******************************************************************************/
 
-/*Version 0.2.3
+/*Version 0.3
  *Authors - Erik Thomas & Zach Wharton
  *TODO:
  *		Fix random number generation
