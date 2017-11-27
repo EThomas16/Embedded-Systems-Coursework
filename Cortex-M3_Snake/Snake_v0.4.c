@@ -55,11 +55,6 @@
 #define JOYSTICK_RIGHT		4
 #define JOYSTICK_SELECT		5
 
-#define INSANE	1
-#define HARD 		2
-#define MEDIUM	3
-#define EASY		4
-
 #define __AFIO_EXTICR1_JS_PD3     0x00003000  //EXTI3 interrupt
 #define __EXTI_IMR_JS_PD3         0x00000008  //Interrupt Mask Register - Unmask intr from src EXTI3
 #define __EXTI_EMR_JS_PD3         0x00000000  //Event Mask Register - Mask events from all EXTI
