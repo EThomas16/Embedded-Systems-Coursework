@@ -21,8 +21,7 @@
 /*Version 0.4
  *Authors - Erik Thomas & Zach Wharton
  *TODO:
- *		Add difficulty scaling
- *		Lights up whenever the snake length increases 
+ *		Add sound cues to events in the game
  */
 
 //The following include files are pre-defined for you.
