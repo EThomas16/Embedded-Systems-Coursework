@@ -18,10 +18,8 @@
 /* 			for the coursework one task for CIS3105 Embedded Systems          */
 /******************************************************************************/
 
-/*Version 0.4
+/*Version 1.0
  *Authors - Erik Thomas & Zach Wharton
- *TODO:
- *		Add sound cues to events in the game
  */
 
 //The following include files are pre-defined for you.
